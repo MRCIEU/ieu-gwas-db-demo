@@ -1,0 +1,14 @@
+name: ieu-gwas-db-demo
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - automake
+  - pandas
+  - requests
+  - jupyterlab
+  - r-tidyverse
+  - r-curl
+  - r-devtools
