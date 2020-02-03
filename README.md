@@ -5,7 +5,6 @@
 conda env create -f environment.yml
 conda activate ieu-gwas-db-demo
 
-
 # 3. install r stuff
 R
 devtools::install_github("MRCIEU/ieugwasr")
