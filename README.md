@@ -1,3 +1,9 @@
+# Demo of IEU GWAS Database
+
+Denis Baird, Yi Liu, Benjamin Elsworth
+
+Steps to get the notebooks working:
+
 ```
 # 1. install anaconda / miniconda
 
