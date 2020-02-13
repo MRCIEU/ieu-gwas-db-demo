@@ -2,6 +2,14 @@
 
 Denis Baird, Yi Liu, Benjamin Elsworth
 
+You can find the slides at [IEU_GWAS_database.pdf](IEU_GWAS_database.pdf).
+
+For jupyter notebooks with produced results, go to [produced_notebooks](produced_notebooks).
+
+For R scripts and results, go to [scripts](scripts) and [results](results).
+
+## Setup
+
 Steps to get the notebooks working:
 
 ```
