@@ -1,0 +1,7 @@
+beta	p	se	position	n	chr	id	rsid	ea	nea	eaf	trait
+-0.000266296	0.49	0.00038789	17715101	399089	17	ukb-b-956	rs11868035	A	G	0.293231	Illnesses of father: Parkinson's disease
+0.000244699	0.42	0.000306164	17715101	422464	17	ukb-b-6548	rs11868035	A	G	0.29337	Illnesses of mother: Parkinson's disease
+-1.30786e-05	0.95	0.000192781	17715101	361199	17	ukb-b-16943	rs11868035	A	G	0.29363	Illnesses of siblings: Parkinson's disease
+-0.0003349	0.064	0.000180771	77198986	361199	4	ukb-b-16943	rs6812193	T	C	0.375503	Illnesses of siblings: Parkinson's disease
+-0.00058302	0.0420001	0.000287191	77198986	422464	4	ukb-b-6548	rs6812193	T	C	0.37518	Illnesses of mother: Parkinson's disease
+-0.00134865	0.00021	0.000363608	77198986	399089	4	ukb-b-956	rs6812193	T	C	0.375073	Illnesses of father: Parkinson's disease
